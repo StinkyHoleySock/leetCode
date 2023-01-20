@@ -1,4 +1,4 @@
-class PalindromeNumber {
+class `9_Palindrome_Number` {
     fun isPalindrome(x: Int): Boolean {
         var firstPath: CharArray = charArrayOf()
         var secondPath: CharArray = charArrayOf()

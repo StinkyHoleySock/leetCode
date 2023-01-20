@@ -1,6 +1,6 @@
 import java.util.*
 
-class ValidParentheses {
+class `20_Valid_Parentheses` {
     fun isValid(s: String): Boolean {
         if (s.length % 2 != 0) return false
         val stack: Stack<Char> = Stack()

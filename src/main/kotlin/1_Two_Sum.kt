@@ -1,4 +1,4 @@
-class TwoSum {
+class `1_Two_Sum` {
     fun twoSum(nums: IntArray, target: Int): IntArray {
         val answer: MutableList<Int> = arrayListOf()
         for (i in nums.indices) {

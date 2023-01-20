@@ -1,4 +1,4 @@
-class LongestCommonPrefix {
+class `14_Longest_Common_Prefix` {
     fun longestCommonPrefix(strs : Array<String>): String {
         if (strs.isEmpty()) return ""
         var prefix = strs[0]
